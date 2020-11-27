@@ -12,9 +12,9 @@
 #define ORIG_LS_FILEPATH @"WebKit/LocalStorage/file__0.localstorage"
 #define ORIG_LS_CACHE @"Caches/file__0.localstorage"
 // #define TARGET_LS_FILEPATH @"WebsiteData/LocalStorage/file__0.localstorage" // original cordova file
-#define TARGET_LS_FILEPATH @"WebKit/WebsiteData/LocalStorage/klender_localhost_0.localstorage"
+#define TARGET_LS_FILEPATH @"WebKit/WebsiteData/LocalStorage/klender_app.klender.nl_0.localstorage"
 #define ORIG_IDB_FILEPATH @"WebKit/LocalStorage/___IndexedDB/file__0"
-#define TARGET_IDB_FILEPATH @"WebKit/WebsiteData/IndexedDB/klender_localhost_0"
+#define TARGET_IDB_FILEPATH @"WebKit/WebsiteData/IndexedDB/klender_app.klender.nl_0"
 
 @implementation MigrateLocalStorage
 
